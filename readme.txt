@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Use new way to merge.
 this is dev.
+this is pulled dev's push.
